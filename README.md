@@ -208,8 +208,6 @@ The app uses **mock data** with simulated network delays and random failures to 
 
 ### Why Zustand?
 
-See `REPORT.md` for detailed rationale, but key reasons:
-
 1. **Simplicity**: No providers, minimal boilerplate
 2. **Performance**: Granular reactivity, no context re-renders
 3. **TypeScript**: Excellent type inference
